@@ -1,0 +1,19 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="iwWX%dQ?9fCQ}xUxx6z!" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="n2C=hCh*yS1OmC^{];o)"><field name="LEDS">`
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        . # # # . 
+        . . . . .
+        `</field></block></statement></block><block type="device_gesture_event" id="f9S#tp#ZZUTDV~I}y}KK" x="502" y="261"><field name="NAME">Gesture.TiltRight</field><statement name="HANDLER"><block type="device_show_leds" id="HR)4uqjHZibu/T=SWo??"><field name="LEDS">`
+        # . . . # 
+        . # . # . 
+        . . . . . 
+        . # # # . 
+        # . . . #
+        `</field></block></statement></block><block type="device_gesture_event" id="?pJ+Pn(BY){5j++Q*wR+" x="219" y="363"><field name="NAME">Gesture.ScreenUp</field><statement name="HANDLER"><block type="device_show_leds" id="v=u5N^pDizVPylRsRnHc"><field name="LEDS">`
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        . # # # . 
+        . . . . .
+        `</field></block></statement></block></xml>
